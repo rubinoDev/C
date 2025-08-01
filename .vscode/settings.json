@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "victor_birthday.h": "c",
+        "_clock_t.h": "c"
+    }
+}
